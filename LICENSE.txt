@@ -338,3 +338,6 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Library General
 Public License instead of this License.
+
+http://www.widestep.com/ekmac
+1E251-5784E-80917-7D0A5-9434a
